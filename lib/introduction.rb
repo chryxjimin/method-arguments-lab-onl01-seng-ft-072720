@@ -1,4 +1,4 @@
-def introduction_with_language(name)
+def introductin(name)
   puts "Hi, my name is #{name}."
 end
 
